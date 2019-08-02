@@ -1,0 +1,20 @@
+Things to improve:  
+3. modularize the program into different section
+	single out the module that accepts xpath selector of the domain 
+4. enable running on temrinal with parameters passed from the terminal as well 
+	print out spinning: https://stackoverflow.com/questions/4995733/how-to-create-a-spinning-command-line-cursor
+5. improve the scoring function
+7. automate the manual adding
+8. creating a log file, and stream log file
+
+stage1:
+	completely modularize the program
+	maintain the previous level of functionality
+stage2:
+	debug/improve the scoring functions
+stage3:
+	move the program from vscode to terminal	
+		xpath selector isolations
+		line cursor stuffs
+		dump a copy of log info into a separate file
+
